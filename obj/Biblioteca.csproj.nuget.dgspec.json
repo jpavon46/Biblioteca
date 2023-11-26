@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ISTEA\\HerramientasProg2\\Biblioteca\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\ISTEA\\HerramientasProg2\\Biblioteca\\Biblioteca\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\ISTEA\\HerramientasProg2\\Biblioteca\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\ISTEA\\HerramientasProg2\\Biblioteca\\Biblioteca\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ISTEA\\HerramientasProg2\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\ISTEA\\HerramientasProg2\\Biblioteca\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\ISTEA\\HerramientasProg2\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\ISTEA\\HerramientasProg2\\Biblioteca\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\ISTEA\\HerramientasProg2\\Biblioteca\\Biblioteca\\obj\\",
+        "outputPath": "C:\\ISTEA\\HerramientasProg2\\Biblioteca\\Biblioteca\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
