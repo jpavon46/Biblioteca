@@ -1,6 +1,6 @@
 namespace Biblioteca.Utils;
 
-public enum Generic
+public enum Genre
 {
     Aventuras,
     CienciaFicción,
